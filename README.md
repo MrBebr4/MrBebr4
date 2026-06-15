@@ -9,6 +9,6 @@
 | DevOps |  |
 | Version Control |  |
 | IDEs |  |
-| Operating Systems |  |
+| Operating Systems | <img src="images/hmlnx-rounded.png" width="60" height="60" alt="HMLNX"> |
 | Other Languages and Tools |  |
 | Python Tools |  |
