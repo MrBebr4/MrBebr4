@@ -8,7 +8,7 @@
 | Database |  |
 | DevOps |  |
 | Version Control |  |
-| IDEs |  |
+| IDEs | <img src="images/Notes_icon.svg.png" width="60" height="60" alt="Notes"> |
 | Operating Systems | <img src="images/hmlnx-rounded.png" width="60" height="60" alt="HMLNX"> |
 | Other Languages and Tools |  |
 | Python Tools |  |
